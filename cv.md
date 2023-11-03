@@ -87,3 +87,18 @@ A software developer with almost 1.5 years of commercial experience, technical b
 - Work in 1C Enterprise with product suppliers
 - Keeping records of the database
 - Registration, returns, inventories, analytics, pricing
+
+### ADDITIONAL EDUCATION
+
+- The Complete JavaScript Course 2023: From Zero to Expert (Udemy)
+- FreeCodeCamp (HTML, CSS, JavaScript)
+- Learn.javascript.ru (JavaScript)
+- Reactjs.org
+- CodeWars [ 100+ Kata Completed ]
+- Learn to Program in Javascript: Beginner to Pro. Javascript Essentials. Responsive Web & Mobile Development in HTML, CSS & Javascript (Udemy)
+- Book: You Don’t Know JS - Kyle Simpson
+
+## ACHIEVEMENTS
+
+- Solved 100 + katas on [Coodewars](https://www.codewars.com/users/Tsekhmister)
+- Second place in the All-Ukrainian competition of scientific works
